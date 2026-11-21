@@ -1,4 +1,0 @@
-Flask
-xgboost
-pandas
-scikit-learn
